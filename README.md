@@ -1,1 +1,2 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chiang%20Jim&theme=codestackr&hide_border=&locale=zh_Hant)](https://git.io/streak-stats)
+https://discord.c99.nl/widget/theme-2/627475236379557888.png
