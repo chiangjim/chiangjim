@@ -21,6 +21,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chiang%20Jim&theme=codestackr&hide_border=&locale=zh_Hant)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?chiangjim=anuraghazra&hide_progress=true)
+
 ***
 
 ![image](https://discord.c99.nl/widget/theme-2/627475236379557888.png)
