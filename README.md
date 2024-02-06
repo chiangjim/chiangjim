@@ -23,6 +23,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Chiang%20Jim=anuraghazra&hide_progress=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiangjim&layout=compact&theme=vision-friendly-dark"></a>
+
 ***
 
 ![image](https://discord.c99.nl/widget/theme-2/627475236379557888.png)
