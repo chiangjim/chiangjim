@@ -7,10 +7,10 @@
 
 ***
 ### 🌐 Launguages:
-> What am i learning?
+> What am I learning?
 > * JavaScript
 
-> What am i using?
+> What am I using?
 > * Python
 > * Html & CSS (Maybe they are not programming languages)
 ***
@@ -21,7 +21,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chiang%20Jim&theme=codestackr&hide_border=&locale=zh_Hant)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?chiangjim=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Chiang%20Jim=anuraghazra&hide_progress=true)
 
 ***
 
