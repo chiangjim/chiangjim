@@ -21,9 +21,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chiang%20Jim&theme=codestackr&hide_border=&locale=zh_Hant)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Chiang%20Jim=anuraghazra&hide_progress=true)
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiangjim&layout=compact&theme=vision-friendly-dark"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiangjim)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
