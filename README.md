@@ -8,9 +8,10 @@
 ***
 ### 🌐 Launguages:
 > What am I learning?
-> * JavaScript
+> Cpp
 
 > What am I using?
+> * JavaScript
 > * Python
 > * Html & CSS (Maybe they are not programming languages)
 ***
